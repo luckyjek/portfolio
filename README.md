@@ -55,7 +55,7 @@
 >NFT 기반 아마추어 아티스트 후원 플랫폼 (팀 프로젝트)  
 >개발 기간: 2021.08.25 ~ 2021.09.27
 >  
->주사용 기술 스택:
+>주사용 기술 스택:  
 >HTML, CSS, JavaScript
 >  
 >[프로젝트 상세 설명](https://github.com/luckyjek/NFT-Hackathon) 참고
