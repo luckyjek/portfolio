@@ -29,8 +29,8 @@
 
 ---
 
-### 2. [Entertainment Design다시배포하기](https://github.com/luckyjek/entertainment-design)
->... (개인 프로젝트)  
+### 2. [Entertainment Design](https://623465b8ffb0001ab27c9a07--entertainment-desing.netlify.app/info)
+>K-pop 엔터테인먼트 홈페이지 (개인 프로젝트)  
 >개발 기간: 2022.03.07 ~ 2022.03.15  
 >  
 >기술 스택:  
